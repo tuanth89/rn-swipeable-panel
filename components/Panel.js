@@ -116,7 +116,7 @@ class SwipeablePanel extends Component {
           this.openSmall();
         }
       } else {
-        //this.closePanel(true);
+        this.closePanel(true);
       }
     }
   }
